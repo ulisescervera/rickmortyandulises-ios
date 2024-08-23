@@ -67,7 +67,7 @@ private struct LocationView: View {
             }
             .padding(.horizontal, 8)
             
-            ResidentsSectionView()
+//            ResidentsSectionView()
         }
         .padding(.vertical, 8)
         .frame(maxWidth: .infinity)
